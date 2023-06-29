@@ -26,9 +26,8 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-
-
   </div>
+  <br/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoxky&hide_progress=true&layout=donut-vertical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoxky&hide_progress=true&layout=donut-vertical&langs_count=10)
 
