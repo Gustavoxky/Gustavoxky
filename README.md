@@ -1,4 +1,4 @@
-## Hello World
+# Hello World
 
 #### My name is Gustavo Correia, and I'm a software developer passionate about technology, nature, music, books, and movies.
 
