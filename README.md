@@ -4,7 +4,7 @@
 
 #### Here, you will find some information about my technical skills, the programming languages I use, the frameworks and technologies I'm familiar with, as well as some projects I've been working on to enhance my abilities.
 
-[![Site](https://img.shields.io/website?label=gustavocsantos.com&style=for-the-badge&url=https://gustavoxky.github.io/me)](https://gustavoxky.github.io/me)
+[![Site](https://img.shields.io/website?label=gustavocsantos.com&style=for-the-badge&url=https://gustavoxky.github.io/mySite)](https://gustavoxky.github.io/me)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-correia-dos-santos-6039641a6/)
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavoxky&show_icons=true&theme=dark)
