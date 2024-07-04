@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/biteg_oficial" alt="Instagram"/></a>
 </p>
 
-[![Site](https://img.shields.io/website?label=gustavocsantos.com&style=for-the-badge&url=https://biteg.vercel.app/)](https://biteg.vercel.app/)
+[![Site](https://img.shields.io/website?label=gustavocsantos.com&style=for-the-badge&url=https://biteg.vercel.app/)](https://biteg.com.br/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-correia-dos-santos-6039641a6/)
 
 <table>
