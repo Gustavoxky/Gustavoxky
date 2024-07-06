@@ -4,9 +4,7 @@
     
   # Hello World
 
-#### My name is Gustavo Correia, and I'm a software developer passionate about technology, nature, music, books, and movies.
-
-#### Here, you will find some information about my technical skills, the programming languages I use, the frameworks and technologies I'm familiar with, as well as some projects I've been working on to enhance my abilities.
+#### Bem vindo! Me chamo Gustavo sou engenheiro de software apaixonado por desenvolvimento web, ciência e engenharia de dados e cyber segurança.
 </p>
 
 <p align="left">
